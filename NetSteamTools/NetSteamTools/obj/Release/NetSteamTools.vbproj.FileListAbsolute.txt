@@ -1,0 +1,17 @@
+C:\Users\Ken\documents\visual studio 2012\Projects\NetSteamTools\NetSteamTools\bin\Release\NetSteamTools.exe.config
+C:\Users\Ken\documents\visual studio 2012\Projects\NetSteamTools\NetSteamTools\bin\Release\NetSteamTools.exe.manifest
+C:\Users\Ken\documents\visual studio 2012\Projects\NetSteamTools\NetSteamTools\bin\Release\NetSteamTools.application
+C:\Users\Ken\documents\visual studio 2012\Projects\NetSteamTools\NetSteamTools\bin\Release\NetSteamTools.exe
+C:\Users\Ken\documents\visual studio 2012\Projects\NetSteamTools\NetSteamTools\bin\Release\NetSteamTools.pdb
+C:\Users\Ken\documents\visual studio 2012\Projects\NetSteamTools\NetSteamTools\bin\Release\NetSteamTools.xml
+C:\Users\Ken\documents\visual studio 2012\Projects\NetSteamTools\NetSteamTools\bin\Release\Newtonsoft.Json.dll
+C:\Users\Ken\documents\visual studio 2012\Projects\NetSteamTools\NetSteamTools\bin\Release\Newtonsoft.Json.xml
+C:\Users\Ken\documents\visual studio 2012\Projects\NetSteamTools\NetSteamTools\obj\Release\NetSteamTools.frmStm.resources
+C:\Users\Ken\documents\visual studio 2012\Projects\NetSteamTools\NetSteamTools\obj\Release\NetSteamTools.frmWelcome.resources
+C:\Users\Ken\documents\visual studio 2012\Projects\NetSteamTools\NetSteamTools\obj\Release\NetSteamTools.Resources.resources
+C:\Users\Ken\documents\visual studio 2012\Projects\NetSteamTools\NetSteamTools\obj\Release\NetSteamTools.vbproj.GenerateResource.Cache
+C:\Users\Ken\documents\visual studio 2012\Projects\NetSteamTools\NetSteamTools\obj\Release\NetSteamTools.exe.manifest
+C:\Users\Ken\documents\visual studio 2012\Projects\NetSteamTools\NetSteamTools\obj\Release\NetSteamTools.application
+C:\Users\Ken\documents\visual studio 2012\Projects\NetSteamTools\NetSteamTools\obj\Release\NetSteamTools.exe
+C:\Users\Ken\documents\visual studio 2012\Projects\NetSteamTools\NetSteamTools\obj\Release\NetSteamTools.xml
+C:\Users\Ken\documents\visual studio 2012\Projects\NetSteamTools\NetSteamTools\obj\Release\NetSteamTools.pdb
